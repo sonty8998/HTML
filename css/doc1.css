@@ -1,0 +1,132 @@
+*{
+	margin:0px;
+	padding: 0px;
+
+
+}
+.main{
+width: 1400px;
+height:auto;
+background-color: white;
+float: left;
+}
+.topbar{
+	width: 1400px;
+	height: 30px;
+	background-color: black;	
+}
+.header{
+	height:100px;
+	width: 1400px;
+	background-color: white;
+	}
+.slider{
+	width: 1400px;
+	height:auto;
+	background-color: white;
+	}
+
+.body1{
+	border: 2px solid;
+	height: auto;
+	width: 100%;
+	background-color: white;
+
+}
+
+.b1{
+	border: 3px solid;
+	width: 463px;
+    height: auto;
+	float: left;
+	background-color: red;
+
+}
+.b2{
+	border: 3px solid;
+	width: 400px;
+    height: auto;
+	float: left;
+	background-color: red;
+
+}
+.b3{
+	border: 3px solid;
+	width: 479px;
+    height: auto;
+	float: left;
+	background-color: red;
+
+}
+
+.body2{
+	border: 2px solid;
+	height: 200px;
+	width: 100%;
+	background-color: white;
+}
+.o1{
+	border: 3px solid;
+	width: 738px;
+    height: 196px;
+	float: left;
+	background-color: red;
+
+}
+.o2{
+	border: 3px solid;
+	width: 300px;
+    height: 196px;
+	float: left;
+	background-color: red;
+
+}
+.o3{
+	border: 3px solid;
+	width: 300px;
+    height: 196px;
+	float: left;
+	background-color: red;
+
+}
+.body3{
+	border: 2px solid;
+	height: 200px;
+	width: 100%;
+	background-color: white;
+}
+.d1{
+	border: 3px solid;
+	width: 33%;
+    height: 196px;
+	float: left;
+	background-color: red;
+
+}
+.d2{
+	border: 3px solid;
+	width: 32%;
+    height: 196px;
+	float: left;
+	background-color: red;
+
+}
+.d3{
+	border: 3px solid;
+	width: 33%;
+    height: 196px;
+	float: left;
+	background-color: red;
+
+}
+
+
+.footer{
+	border: 2px solid;
+	height: 100px;
+	width: 100%;
+	background-color: #f6f6f6;
+}
+
+
+
