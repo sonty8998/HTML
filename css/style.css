@@ -74,3 +74,23 @@ float: left;
 	margin-top: 130px;
 	margin-left: 25px;
 }
+ul li{
+	display: inline-block;
+	width: 63px;
+    height: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    padding: 0 10px;
+   
+    text-align: center;
+		}
+ul li a{
+	text-decoration: none;
+	color: #2c4152;
+}
+ul li:hover{
+	font-weight: 800;
+}
+.active{
+	font-weight: 700;
+}
