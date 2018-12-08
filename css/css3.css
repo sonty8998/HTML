@@ -1,8 +1,6 @@
 .bg{
 	border: 5px solid;
-	background-image: url(../image/f2.jpg);
-	background-attachment: fixed;
-	background-repeat: repeat-y;
 	background-color: orange;
-	background-position: right top;
+	border-left-color:black;
+	border-top-color:green;
 }
