@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: sans-serif;
+	display: block;
+}
+.main{
+	    height: -webkit-fill-available;
+
+}
+.header{
+    height: 82px;
+    background-color:#3b5998;
+        border-bottom: 1px solid #133783;
+}
+.header1{
+	 margin: 0 auto;
+    padding-top: 10px;
+    width: 980px;
+}
+.header2{
+
+
+}
+.body{
+
+}
+.body1{
+	border:3px solid;
+	width: 1000px;
+	line-height: auto;
+	    margin-left: 181px;
+}
+.bcontent{
+	border: 2px solid red;
+	width: 500px;
+}
+.content{
+	border: 2px solid green;
+}
